@@ -1,0 +1,8 @@
+--------------------Configuration: twiter4j - JDK version 1.8.0_172 <Default> - <Default>--------------------
+
+My Timeline:
+Sent by: @ahmadso45803444 - ahmad sobirin
+birin
+
+
+Process completed.
